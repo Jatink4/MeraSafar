@@ -35,7 +35,7 @@ const [ email, setEmail ] = useState('')
   }
 
   return (
-    <div className='p-7 bg-yellow-100 h-screen flex flex-col justify-between'>
+    <div className='p-7 bg-sky-200 h-screen flex flex-col justify-between'>
     <div>
     <img src={textlogo} alt="Mera-Safar-Logo" />
       <form onSubmit={(e) => {

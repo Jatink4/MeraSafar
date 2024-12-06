@@ -60,7 +60,7 @@ const CaptainSignup = () => {
 
   }
   return (
-    <div className='py-5 bg-yellow-100  px-5 h-screen flex flex-col justify-between'>
+    <div className='py-5 bg-sky-200   px-5 h-screen flex flex-col justify-between'>
       <div>
       <img src={textlogo} alt="Mera-Safar-Logo" />
 
